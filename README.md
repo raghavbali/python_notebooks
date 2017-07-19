@@ -12,3 +12,4 @@ Notebooks are as follows:
   + [Maximum Stolen Value from Houses](dynamic_programming/max_stolen_value.ipynb)
   + [Non Decreasing Minimum Sum Subsequence](dynamic_programming/non_decreasing_min_sum.ipynb)
   + [Ugly Numbers](dynamic_programming/ugly_numbers.ipynb)
+  + [Maximum Size Square Sub Array](dynamic_programming/max_size_square_sub_array.ipynb)
