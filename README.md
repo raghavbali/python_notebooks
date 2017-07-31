@@ -14,3 +14,4 @@ Notebooks are as follows:
   + [Ugly Numbers](dynamic_programming/ugly_numbers.ipynb)
   + [Maximum Size Square Sub Array](dynamic_programming/max_size_square_sub_matrix.ipynb)
   + [Minimum Cost Path](dynamic_programming/min_cost_path.ipynb)
+  + [Coin Change Problem](dynamic_programming/coin_change.ipynb)
