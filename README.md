@@ -1,6 +1,7 @@
 # Python Notebooks
 Contains my learnings in the form of python notebooks.
 Notebooks are as follows:
++ [Supercharge Deep Learning with 1-Cycle Learning Rate](supercharge_series/supercharge_learning_lr.ipynb)
 + [Ordinary Least Squares](ols/ols_notebook.ipynb)
 + [Perceptron](perceptron/perceptron_notebook.ipynb)
 + [Time Series Analysis](time_series_analysis/Time_Series_Analysis.ipynb)
